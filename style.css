@@ -1,3 +1,19 @@
 body {
-  background-color: blue;
+  background-color: purple;
+}
+
+header {
+  height: 50px;
+  background-color: cyan;
+  display: flex;
+  justify-content: space-between;
+}
+
+header ul {
+  display: flex;
+  list-style: none;
+}
+
+header li {
+  margin-right: 25px;
 }
